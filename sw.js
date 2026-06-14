@@ -1,7 +1,7 @@
 // Service Worker — Medartis APTUS PWA
 // Cachea los recursos esenciales para que la app funcione sin conexión.
 
-const CACHE_NAME = 'medartis-aptus-v4';
+const CACHE_NAME = 'medartis-aptus-v5';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
